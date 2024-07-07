@@ -8,7 +8,7 @@ ivy-lee-method-app for pc
 | ----------------- | ------------------------------ |
 | Frontend          | TypeScript, Nest.js, Storybook |
 | Backend           | TypeScript, NestJS, Prisma     |
-| Infrastructure    |                                |
+| Infrastructure    |                                 |
 | Database          | PostgreSQL                     |
 | Environment setup | Docker                         |
 | CI/CD             | GitHub Actions                 |
